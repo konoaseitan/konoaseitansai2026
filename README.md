@@ -1,1 +1,0 @@
-# konoaseitansai2026
