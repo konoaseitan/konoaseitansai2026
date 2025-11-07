@@ -1,0 +1,40 @@
+body {
+    font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+    background-color: #fffafc;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 30px;
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.gallery-item {
+    width: 30%; /* 横に3枚並ぶよう調整 */
+    max-width: 250px; /* 最大サイズ制限 */
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 100%; /* 画像をコンテナ幅に合わせる */
+    height: auto;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
