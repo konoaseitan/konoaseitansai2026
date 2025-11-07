@@ -8,7 +8,7 @@ body {
 h1 {
     color: #333;
     margin-bottom: 30px;
-    font-size: ４em;
+    font-size: 4em;
     text-align: center;
 }
 
@@ -38,4 +38,5 @@ h2 {
     height: auto;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
+
 
