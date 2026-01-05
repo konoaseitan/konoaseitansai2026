@@ -1,6 +1,6 @@
 body {
     font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
-    background-color: #fffafc;
+    background-color: #fff9e6;
     margin: 0;
     padding: 20px;
 }
@@ -38,5 +38,3 @@ h2 {
     height: auto;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
-
-
