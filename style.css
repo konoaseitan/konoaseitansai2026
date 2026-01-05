@@ -21,7 +21,7 @@ h2 {
 
 h3 {
     color: #333;
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
 }
 
@@ -44,5 +44,6 @@ h3 {
     height: auto;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
+
 
 
